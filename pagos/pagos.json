@@ -20,8 +20,8 @@
             "copiar": false
           }
         ],
-        "nota": "Escaneá el QR con la app de Binance (o pagá al ID) e ingresá 49 USDT.",
-        "aviso": ""
+        "nota": "Escaneá el QR con la cámara del celular o con el escáner de la app de Binance. También podés enviar al ID 211223373. Monto: 49 USDT.",
+        "aviso": "No lo escanees desde «Retirar»: ahí da error."
       },
       {
         "titulo": "USDT (BEP-20)",
@@ -61,5 +61,5 @@
       }
     ]
   },
-  "firma": "6dIa964+Gc//ZYMVhVobzvBRN6oVxPu6fJbkAExrrOPv5fREDXQJbNkT/V1iCRaB0s+KXoQHigxIh1UZCmNdCg=="
+  "firma": "1UHtydFIVFl1Hq5klli9rej8gQjqJienCKFAiY2CFtMlwu9NbhpijHBVQUZnBbPZHTRq2PxMnvtMqU5f/2n1Bw=="
 }
