@@ -4,24 +4,21 @@
     "titulo": "optiMAX PRO: 49 USDT o 590 Bs",
     "metodos": [
       {
-        "titulo": "Binance Pay",
-        "qr": "binance_pay.png",
-        "sha256": "8e5dd51bab29f0023c11e55b3182952f3a53aaf510251c6e6d70c1d9bcdb7697",
+        "titulo": "ID de Binance",
+        "destacado": {
+          "etiqueta": "ID de Binance",
+          "valor": "211223373"
+        },
         "monto": "49 USDT",
         "datos": [
-          {
-            "etiqueta": "ID de Binance",
-            "valor": "211223373",
-            "copiar": true
-          },
           {
             "etiqueta": "Nombre",
             "valor": "GMSoftware",
             "copiar": false
           }
         ],
-        "nota": "Escaneá el QR con la cámara del celular o con el escáner de la app de Binance. También podés enviar al ID 211223373. Monto: 49 USDT.",
-        "aviso": "No lo escanees desde «Retirar»: ahí da error."
+        "nota": "En la app de Binance: Activos → USDT → Enviar → Enviar a usuario de Binance. Pegá el ID y enviá 49 USDT.",
+        "aviso": ""
       },
       {
         "titulo": "USDT (BEP-20)",
@@ -61,5 +58,5 @@
       }
     ]
   },
-  "firma": "1UHtydFIVFl1Hq5klli9rej8gQjqJienCKFAiY2CFtMlwu9NbhpijHBVQUZnBbPZHTRq2PxMnvtMqU5f/2n1Bw=="
+  "firma": "+dND72b2T8z5nCRhBOdRjusxNTn5rf3xknTsBgy5huJ7MZOOPKpolj5Vg43pbLIK/oYcMDpP/GaUMU1v5SryAg=="
 }
