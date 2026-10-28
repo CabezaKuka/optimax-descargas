@@ -6,7 +6,7 @@
       {
         "titulo": "Binance Pay",
         "qr": "binance_pay.png",
-        "sha256": "81d64f826fee535dc114e040d424a56e69d84b7fa59a201c8a1b6c69b747310f",
+        "sha256": "8e5dd51bab29f0023c11e55b3182952f3a53aaf510251c6e6d70c1d9bcdb7697",
         "monto": "49 USDT",
         "datos": [
           {
@@ -26,7 +26,7 @@
       {
         "titulo": "USDT (BEP-20)",
         "qr": "usdt_bep20.png",
-        "sha256": "240335092a6112d9968eff6964360ff89c65de3651845f0ad2ec62bfc64452ff",
+        "sha256": "d2c271d2c9036ba43aad1219c59cd466ebbab5e9c56979b0cc26772606a4b7dd",
         "monto": "49 USDT",
         "datos": [
           {
@@ -46,7 +46,7 @@
       {
         "titulo": "QR Bolivia (Bs)",
         "qr": "qr_bolivia.png",
-        "sha256": "be01e1fb0ed0712ad2b617e035a8e8788b9ad67947e59b6dbe0e11ce66ffb019",
+        "sha256": "765481208db4d7881f7d181c37435def4bcf7faa876e1fb8f207e9c1722e5d08",
         "monto": "590 Bs",
         "datos": [
           {
@@ -61,5 +61,5 @@
       }
     ]
   },
-  "firma": "ry1VOr1FDuAaMFjvYw3gUvySlDpEsctAxzP5avYOSDyuvzOWVJSp3fahGKDafrVjjYSzFjelSX59xw0UVc5yCA=="
+  "firma": "SfWyQpP44rrGth1nl4O1Q7xBsTRb1DegIorYs2k51bqFhCr6KMGw95s6Q9Gg84GjunxbeZTMCqX4dYSbbUa4Cw=="
 }
