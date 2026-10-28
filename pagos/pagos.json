@@ -40,7 +40,7 @@
             "copiar": true
           }
         ],
-        "nota": "Desde cualquier billetera o exchange.",
+        "nota": "Desde cualquier billetera o exchange: Binance, MEXC, Bybit, etc.",
         "aviso": "Enviá solo USDT por la red BNB Smart Chain (BEP-20). Por otra red el pago se pierde."
       },
       {
@@ -61,5 +61,5 @@
       }
     ]
   },
-  "firma": "SfWyQpP44rrGth1nl4O1Q7xBsTRb1DegIorYs2k51bqFhCr6KMGw95s6Q9Gg84GjunxbeZTMCqX4dYSbbUa4Cw=="
+  "firma": "6dIa964+Gc//ZYMVhVobzvBRN6oVxPu6fJbkAExrrOPv5fREDXQJbNkT/V1iCRaB0s+KXoQHigxIh1UZCmNdCg=="
 }
