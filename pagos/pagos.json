@@ -1,0 +1,65 @@
+{
+  "datos": {
+    "version": 1,
+    "titulo": "optiMAX PRO: 49 USDT o 590 Bs",
+    "metodos": [
+      {
+        "titulo": "Binance Pay",
+        "qr": "binance_pay.png",
+        "sha256": "81d64f826fee535dc114e040d424a56e69d84b7fa59a201c8a1b6c69b747310f",
+        "monto": "49 USDT",
+        "datos": [
+          {
+            "etiqueta": "ID de Binance",
+            "valor": "211223373",
+            "copiar": true
+          },
+          {
+            "etiqueta": "Nombre",
+            "valor": "GMSoftware",
+            "copiar": false
+          }
+        ],
+        "nota": "Escaneá el QR con la app de Binance (o pagá al ID) e ingresá 49 USDT.",
+        "aviso": ""
+      },
+      {
+        "titulo": "USDT (BEP-20)",
+        "qr": "usdt_bep20.png",
+        "sha256": "240335092a6112d9968eff6964360ff89c65de3651845f0ad2ec62bfc64452ff",
+        "monto": "49 USDT",
+        "datos": [
+          {
+            "etiqueta": "Red",
+            "valor": "BNB Smart Chain (BEP-20)",
+            "copiar": false
+          },
+          {
+            "etiqueta": "Dirección",
+            "valor": "0xb4cd33650f254214ed24188ed087f6848add00d1",
+            "copiar": true
+          }
+        ],
+        "nota": "Desde cualquier billetera o exchange.",
+        "aviso": "Enviá solo USDT por la red BNB Smart Chain (BEP-20). Por otra red el pago se pierde."
+      },
+      {
+        "titulo": "QR Bolivia (Bs)",
+        "qr": "qr_bolivia.png",
+        "sha256": "be01e1fb0ed0712ad2b617e035a8e8788b9ad67947e59b6dbe0e11ce66ffb019",
+        "monto": "590 Bs",
+        "datos": [
+          {
+            "etiqueta": "Concepto",
+            "valor": "optiMAX",
+            "copiar": false
+          }
+        ],
+        "nota": "Escaneá el QR con la app del banco. El monto ya viene cargado.",
+        "aviso": "",
+        "vence": "2028-10-27"
+      }
+    ]
+  },
+  "firma": "ry1VOr1FDuAaMFjvYw3gUvySlDpEsctAxzP5avYOSDyuvzOWVJSp3fahGKDafrVjjYSzFjelSX59xw0UVc5yCA=="
+}
